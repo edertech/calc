@@ -1,14 +1,11 @@
 
-# README #
+# calc_python_qt5 #
 
-Calc App
-
-### This is a very simple calculator app implemented in Python and PyQt5 ###
+This is a very simple calculator app implemented in Python and PyQt5
 
 ## Technologies:
 * [PyQt5](https://pypi.org/project/PyQt5/)
 
-## Setup ###
 
 ## Installing Pipenv
 ```bash
